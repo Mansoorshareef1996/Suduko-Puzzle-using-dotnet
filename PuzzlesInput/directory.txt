@@ -1,0 +1,12 @@
+easy/e1.txt
+easy/e2.txt
+easy/e3.txt
+easy/e4.txt
+medium/m1.txt
+medium/m2.txt
+medium/m3.txt
+medium/m4.txt
+hard/h1.txt
+hard/h2.txt
+hard/h3.txt
+hard/h4.txt
